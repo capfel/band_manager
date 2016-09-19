@@ -5,6 +5,8 @@
 Follow steps described here:
 [http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#installing-the-requirements]
 
+DO NOT INSTALL ANDROID SDK >= 24
+
 Install NPM
 [https://nodejs.org/en/]
 
