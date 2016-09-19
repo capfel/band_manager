@@ -12,3 +12,7 @@ Install NPM
 
 Install required Node packages:
 `npm install -g cordova ionic gulp`
+
+Install Intel System Image in Android SDK Manager
+
+Install AVD via Android SDK Manager -> Tools -> Manage AVDs
